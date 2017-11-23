@@ -1,1 +1,1 @@
-ini adalah repository
+ini adalah repository (tak ubah)
